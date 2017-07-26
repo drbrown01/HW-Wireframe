@@ -14,21 +14,31 @@
         <li>Contact</li>
       </ul>
     </nav>
+    <main>
     <form class="Name" action="index.html" method="post">
       <!-- {%csrf_token%} -->
       <label for="Name">Name</label>
       <br>
-      <label for="Name">Name</label>
       <input type="text" name="Name" value="Name">
+      <label for="Email">Email</label>
       <br>
-      <label for="Name">Name</label>
       <input type="text" name="Email" value="Email">
       <br>
-      <label for="Name">Name</label>
-        <textarea rows="4" cols="50">
-        <br>
-        <input type="submit" name="" value="Send Message!">
+      <label for="Message">Message</label>
+      <textarea name="comment" form="usrform">Enter text here...</textarea>
+      <br>
+      <input type="submit" name="" value="Send Message!">
     </form>
+    </main>
+        <aside class="">
+          <h2>Connect with Me</h2>
+            <img src="images/aside1" alt="GitHub">
+            <img src="images/aside2" alt="linkedIn">
+            <img src="images/aside3" alt="Stackoverflow">
+        </aside>
+    <footer>
+      <h4>@Copyright 2017 Daniel Brown</h4>
+    </footer>
 
   </body>
 </html>
