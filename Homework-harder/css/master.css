@@ -7,34 +7,52 @@ nav{
 
 }
 main{
+  width: 960px;
 
 }
-port1{
-  background-image: url(images/twitter);
+.port1{
+  margin: 15px;
+  padding: 15px;
+  background-color: #eee;
+  width: 200px;
+  height: 200px;
+  display: inline-grid;
 
 
 }
-port2{
+.port2{
   margin: auto;
   padding: inherit;
+  width: 200px;
+  height: 200px:auto;
+  display: inline-grid;
 
 
 }
-port3{
+.port3{
   margin: auto;
   padding: inherit;
+  width: 200px;
+  height: 200px:auto;
+  display: inline-grid;
 }
-port4{
+.port4{
   margin: auto;
   padding: inherit;
+  width: 200px;
+  height: 200px:auto;
+  display: inline-grid;
 
 }
-port5{
+.port5{
   margin: auto;
   padding: inherit;
+  width: 200px;
+  height: 200px:auto;
+  display: inline-grid;
 
 }
-portlabel{
+.portlabel{
   margin: auto;
   padding: inherit;
 
