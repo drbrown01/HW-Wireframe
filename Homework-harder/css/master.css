@@ -10,26 +10,54 @@ main{
 
 }
 port1{
+  background-image: url(images/twitter);
+
 
 }
 port2{
+  margin: auto;
+  padding: inherit;
+
 
 }
 port3{
-
+  margin: auto;
+  padding: inherit;
 }
 port4{
+  margin: auto;
+  padding: inherit;
 
 }
 port5{
+  margin: auto;
+  padding: inherit;
 
 }
 portlabel{
+  margin: auto;
+  padding: inherit;
 
 }
+nav h1{
+  background-color: #777;
+  float: left;
+
+}
+nav ul{
+  display: inline-block;
+  list-style: none;
+}
 aside{
+  margin: auto;
+  padding: inherit;
 
 }
 footer{
-  
+  margin: auto;
+  padding: inherit;
+  background-color: #777;
+  text-align: justify;
+  height: 110px;
+
 }
